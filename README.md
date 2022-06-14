@@ -1,6 +1,6 @@
 ## **Listen.Think.Speak**
 
-An interactive Max MSP Patch, that allow you to communicate via MAX and let you create some vizual effects with your messages.
+An interactive Max MSP Patch, that allow you to communicate via MAX and let you create some visual effects with your messages.
 
 ## **Installing**
 
