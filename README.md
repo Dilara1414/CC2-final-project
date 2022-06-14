@@ -1,8 +1,10 @@
-**Listen.Think.Speak**
+## **(Listen.Think.Speak)**
+
 An interactive Max MSP Patch, that allow you to communicate via MAX and let you create some vizual effects with your messages.
 
-**Installing**
+## **Installing**
+
 You need to have MAX MSP 8 installed on your computer.
 
-## (Usage)
+## Usage
 Open the patch. It will give you the following instructions.
